@@ -2,7 +2,6 @@ from sun import Sun
 from planet import Planet
 from moon import Moon
 
-
 def print_solar_system(solar_system_data):
     print(f"Sun: {solar_system_data['Name']}")
     sun_name = solar_system_data["Name"]
