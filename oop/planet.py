@@ -1,6 +1,4 @@
 from celestial_body import CelestialBody
-
-
 class Planet(CelestialBody):
     def __init__(
         self,
